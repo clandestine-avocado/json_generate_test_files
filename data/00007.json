@@ -1,0 +1,39 @@
+{
+    "first_name": "FirstName_6",
+    "last_name": "LastName_6",
+    "email": [
+        "email6@example.com",
+        "email6_alt@example.com"
+    ],
+    "gender": "Female",
+    "color": "Purple",
+    "remarks": [
+        "Remark 0 for person 6",
+        "Remark 1 for person 6"
+    ],
+    "associations": {
+        "individual": [
+            "ind_46433",
+            "ind_36344",
+            "ind_18774"
+        ],
+        "country": [
+            "cou_87414"
+        ],
+        "document": [
+            "doc_44040",
+            "doc_53952",
+            "doc_62656"
+        ],
+        "organization": [
+            "org_71330",
+            "org_79626",
+            "org_83793",
+            "org_24059"
+        ]
+    },
+    "associations.city": [
+        "Item_0"
+    ],
+    "phone": "Sample_phone_6"
+}

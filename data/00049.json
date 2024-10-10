@@ -1,0 +1,31 @@
+{
+    "first_name": "FirstName_48",
+    "last_name": "LastName_48",
+    "email": [
+        "email48@example.com",
+        "email48_alt@example.com"
+    ],
+    "gender": "Male",
+    "color": "Green",
+    "remarks": [
+        "Remark 0 for person 48",
+        "Remark 1 for person 48"
+    ],
+    "associations": {
+        "individual": [
+            "ind_14166",
+            "ind_99726"
+        ],
+        "country": [
+            "cou_79244",
+            "cou_50925",
+            "cou_39762",
+            "cou_45007"
+        ],
+        "organization": [
+            "org_36195",
+            "org_96693"
+        ]
+    },
+    "phone": "Sample_phone_48"
+}

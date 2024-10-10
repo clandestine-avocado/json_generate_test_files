@@ -1,0 +1,37 @@
+{
+    "first_name": "FirstName_47",
+    "last_name": "LastName_47",
+    "email": [
+        "email47@example.com",
+        "email47_alt@example.com"
+    ],
+    "gender": "Female",
+    "color": "Red",
+    "remarks": [
+        "Remark 0 for person 47"
+    ],
+    "associations": {
+        "individual": [
+            "ind_89202",
+            "ind_46325"
+        ],
+        "country": [
+            "cou_14860",
+            "cou_17997",
+            "cou_67498",
+            "cou_78139"
+        ],
+        "organization": [
+            "org_60730",
+            "org_95093",
+            "org_19332",
+            "org_73929",
+            "org_15533"
+        ]
+    },
+    "age": 68,
+    "associations.city": [
+        "Item_0",
+        "Item_1"
+    ]
+}

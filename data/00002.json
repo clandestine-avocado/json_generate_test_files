@@ -1,0 +1,37 @@
+{
+    "first_name": "FirstName_1",
+    "last_name": "LastName_1",
+    "email": [
+        "email1@example.com",
+        "email1_alt@example.com"
+    ],
+    "gender": "Female",
+    "color": "Purple",
+    "remarks": [
+        "Remark 0 for person 1",
+        "Remark 1 for person 1",
+        "Remark 2 for person 1"
+    ],
+    "associations": {
+        "individual": [
+            "ind_22409",
+            "ind_29261"
+        ],
+        "country": [
+            "cou_18043",
+            "cou_77430"
+        ],
+        "document": [
+            "doc_83520",
+            "doc_12646",
+            "doc_40849",
+            "doc_97915",
+            "doc_20546"
+        ],
+        "organization": [
+            "org_60945"
+        ]
+    },
+    "age": 73,
+    "occupation": "Sample_occupation_1"
+}

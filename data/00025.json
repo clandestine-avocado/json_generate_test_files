@@ -1,0 +1,32 @@
+{
+    "first_name": "FirstName_24",
+    "last_name": "LastName_24",
+    "email": [
+        "email24@example.com",
+        "email24_alt@example.com"
+    ],
+    "gender": "Other",
+    "remarks": [
+        "Remark 0 for person 24"
+    ],
+    "associations": {
+        "individual": [
+            "ind_61219"
+        ],
+        "country": [
+            "cou_79466",
+            "cou_19596",
+            "cou_32610"
+        ],
+        "organization": [
+            "org_62190",
+            "org_12164",
+            "org_67111"
+        ]
+    },
+    "hobbies": [
+        "Item_0",
+        "Item_1"
+    ],
+    "phone": "Sample_phone_24"
+}

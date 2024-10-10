@@ -1,0 +1,36 @@
+{
+    "first_name": "FirstName_35",
+    "last_name": "LastName_35",
+    "email": [
+        "email35@example.com",
+        "email35_alt@example.com"
+    ],
+    "gender": "Male",
+    "color": "Red",
+    "remarks": [
+        "Remark 0 for person 35"
+    ],
+    "associations": {
+        "individual": [
+            "ind_73056",
+            "ind_36450",
+            "ind_86163"
+        ],
+        "country": [
+            "cou_51391",
+            "cou_25174",
+            "cou_25462"
+        ],
+        "organization": [
+            "org_11913",
+            "org_87859"
+        ]
+    },
+    "hobbies": [
+        "Item_0",
+        "Item_1"
+    ],
+    "associations.city": [
+        "Item_0"
+    ]
+}

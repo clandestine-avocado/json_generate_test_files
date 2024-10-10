@@ -1,0 +1,31 @@
+{
+    "first_name": "FirstName_36",
+    "last_name": "LastName_36",
+    "email": [
+        "email36@example.com",
+        "email36_alt@example.com"
+    ],
+    "gender": "Female",
+    "color": "Red",
+    "remarks": [
+        "Remark 0 for person 36",
+        "Remark 1 for person 36",
+        "Remark 2 for person 36"
+    ],
+    "associations": {
+        "individual": [
+            "ind_10700",
+            "ind_17510",
+            "ind_25673",
+            "ind_54073"
+        ],
+        "country": [
+            "cou_74267"
+        ],
+        "organization": [
+            "org_68277",
+            "org_89208"
+        ]
+    },
+    "age": 66
+}

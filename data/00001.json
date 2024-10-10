@@ -1,0 +1,37 @@
+{
+    "first_name": "FirstName_0",
+    "last_name": "LastName_0",
+    "email": [
+        "email0@example.com",
+        "email0_alt@example.com"
+    ],
+    "gender": "Other",
+    "color": "Yellow",
+    "remarks": [
+        "Remark 0 for person 0"
+    ],
+    "associations": {
+        "individual": [
+            "ind_12017"
+        ],
+        "country": [
+            "cou_72529",
+            "cou_65207",
+            "cou_47975",
+            "cou_49031",
+            "cou_87535"
+        ],
+        "document": [
+            "doc_54586",
+            "doc_72458",
+            "doc_78155",
+            "doc_47088",
+            "doc_53751"
+        ],
+        "organization": [
+            "org_47134",
+            "org_45655"
+        ]
+    },
+    "occupation": "Sample_occupation_0"
+}

@@ -1,0 +1,26 @@
+{
+    "first_name": "FirstName_38",
+    "last_name": "LastName_38",
+    "email": [
+        "email38@example.com",
+        "email38_alt@example.com"
+    ],
+    "gender": "Male",
+    "color": "Purple",
+    "associations": {
+        "individual": [
+            "ind_57996",
+            "ind_61598",
+            "ind_33714",
+            "ind_53302"
+        ],
+        "country": [
+            "cou_65299"
+        ],
+        "organization": [
+            "org_33207",
+            "org_21300"
+        ]
+    },
+    "address": "Sample_address_38"
+}

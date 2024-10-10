@@ -1,0 +1,29 @@
+{
+    "first_name": "FirstName_32",
+    "last_name": "LastName_32",
+    "email": [
+        "email32@example.com",
+        "email32_alt@example.com"
+    ],
+    "gender": "Male",
+    "color": "Purple",
+    "remarks": [
+        "Remark 0 for person 32"
+    ],
+    "associations": {
+        "individual": [
+            "ind_15651"
+        ],
+        "country": [
+            "cou_69294",
+            "cou_66324",
+            "cou_65707"
+        ],
+        "organization": [
+            "org_82060",
+            "org_68997",
+            "org_58088"
+        ]
+    },
+    "marital_status": "Sample_marital_status_32"
+}

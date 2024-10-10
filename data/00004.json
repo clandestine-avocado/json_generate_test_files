@@ -1,0 +1,40 @@
+{
+    "first_name": "FirstName_3",
+    "last_name": "LastName_3",
+    "email": [
+        "email3@example.com",
+        "email3_alt@example.com"
+    ],
+    "gender": "Male",
+    "color": "Blue",
+    "remarks": [
+        "Remark 0 for person 3",
+        "Remark 1 for person 3",
+        "Remark 2 for person 3"
+    ],
+    "associations": {
+        "individual": [
+            "ind_15103",
+            "ind_54783",
+            "ind_89961",
+            "ind_87976"
+        ],
+        "country": [
+            "cou_79806",
+            "cou_23691",
+            "cou_91429"
+        ],
+        "document": [
+            "doc_51031"
+        ],
+        "organization": [
+            "org_11578",
+            "org_49748",
+            "org_15519"
+        ]
+    },
+    "hobbies": [
+        "Item_0",
+        "Item_1"
+    ]
+}

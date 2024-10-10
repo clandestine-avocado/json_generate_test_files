@@ -1,0 +1,36 @@
+{
+    "first_name": "FirstName_17",
+    "last_name": "LastName_17",
+    "email": [
+        "email17@example.com",
+        "email17_alt@example.com"
+    ],
+    "gender": "Male",
+    "color": "Red",
+    "remarks": [
+        "Remark 0 for person 17",
+        "Remark 1 for person 17"
+    ],
+    "associations": {
+        "individual": [
+            "ind_72128",
+            "ind_62045"
+        ],
+        "country": [
+            "cou_54920",
+            "cou_16328",
+            "cou_27580",
+            "cou_82372",
+            "cou_59248"
+        ],
+        "organization": [
+            "org_60845",
+            "org_23798"
+        ]
+    },
+    "occupation": "Sample_occupation_17",
+    "associations.city": [
+        "Item_0",
+        "Item_1"
+    ]
+}
