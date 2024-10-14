@@ -1,0 +1,73 @@
+{
+  "string": "LOwxBEJ74u",
+  "number": -116.55268034262417,
+  "integer": 15,
+  "float": 9.092987573670893,
+  "boolean_true": true,
+  "boolean_false": false,
+  "null_value": null,
+  "array": [
+    12,
+    18,
+    98,
+    25,
+    28
+  ],
+  "nested_object": {
+    "name": "yQ8O6vsMe5",
+    "value": 98
+  },
+  "array_of_objects": [
+    {
+      "id": 1,
+      "name": "JzJWCzS9oV"
+    },
+    {
+      "id": 2,
+      "name": "9cQrJNxeiS"
+    },
+    {
+      "id": 3,
+      "name": "zaUlqmWGPh"
+    }
+  ],
+  "object_with_array": {
+    "name": "FQZY0lyjAT",
+    "values": [
+      89,
+      81,
+      57
+    ]
+  },
+  "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return CVs7sA8nYg",
+  "string_with_unicode": "Unicode: © ♥ ‼ hI5sHatFn5",
+  "empty_object": {},
+  "empty_array": [],
+  "nested_arrays": [
+    [
+      1,
+      4,
+      2
+    ],
+    [
+      2,
+      6,
+      4
+    ],
+    [
+      6,
+      2,
+      9
+    ]
+  ],
+  "mixed_array": [
+    33,
+    "ufMhP1P1Gm",
+    3.4724121605258054,
+    false,
+    null,
+    {
+      "key": "2IkvvwMwUQ"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+2024-10-10 19:20:48,036 - INFO - Starting JSON processing from directory: C:\Users\kroy2\Documents\python\projects\json_generate_test_files\nested_data
+2024-10-10 19:20:48,036 - INFO - Output directory created/confirmed: C:\Users\kroy2\Documents\python\projects\json_generate_test_files\output
+2024-10-10 19:20:48,036 - INFO - Processing file: json_example_1.json
+2024-10-10 19:20:48,055 - INFO - Successfully processed file: json_example_1.json
+2024-10-10 19:20:48,055 - INFO - Processing file: json_example_10.json
+2024-10-10 19:20:48,056 - INFO - Successfully processed file: json_example_10.json
+2024-10-10 19:20:48,056 - INFO - Processing file: json_example_2.json
+2024-10-10 19:20:48,056 - INFO - Successfully processed file: json_example_2.json
+2024-10-10 19:20:48,056 - INFO - Processing file: json_example_3.json
+2024-10-10 19:20:48,057 - INFO - Successfully processed file: json_example_3.json
+2024-10-10 19:20:48,057 - INFO - Processing file: json_example_4.json
+2024-10-10 19:20:48,057 - INFO - Successfully processed file: json_example_4.json
+2024-10-10 19:20:48,057 - INFO - Processing file: json_example_5.json
+2024-10-10 19:20:48,058 - INFO - Successfully processed file: json_example_5.json
+2024-10-10 19:20:48,058 - INFO - Processing file: json_example_6.json
+2024-10-10 19:20:48,058 - INFO - Successfully processed file: json_example_6.json
+2024-10-10 19:20:48,058 - INFO - Processing file: json_example_7.json
+2024-10-10 19:20:48,058 - INFO - Successfully processed file: json_example_7.json
+2024-10-10 19:20:48,058 - INFO - Processing file: json_example_8.json
+2024-10-10 19:20:48,058 - INFO - Successfully processed file: json_example_8.json
+2024-10-10 19:20:48,058 - INFO - Processing file: json_example_9.json
+2024-10-10 19:20:48,058 - INFO - Successfully processed file: json_example_9.json
+2024-10-10 19:20:48,070 - INFO - Saved all data to C:\Users\kroy2\Documents\python\projects\json_generate_test_files\output\all_data.csv
+2024-10-10 19:20:48,070 - INFO - JSON processing completed successfully

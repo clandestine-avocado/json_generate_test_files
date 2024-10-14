@@ -1,0 +1,32 @@
+2024-10-10 19:26:13,327 - INFO - Starting JSON processing from directory: C:\Users\kroy2\Documents\python\projects\json_generate_test_files\nested_data
+2024-10-10 19:26:13,327 - INFO - Output directory created: C:\Users\kroy2\Documents\python\projects\json_generate_test_files\output\20241010_192613
+2024-10-10 19:26:13,327 - INFO - Processing file: json_example_1.json
+2024-10-10 19:26:13,345 - INFO - Successfully processed file: json_example_1.json
+2024-10-10 19:26:13,345 - INFO - Processing file: json_example_10.json
+2024-10-10 19:26:13,348 - INFO - Successfully processed file: json_example_10.json
+2024-10-10 19:26:13,356 - INFO - Processing file: json_example_2.json
+2024-10-10 19:26:13,356 - INFO - Successfully processed file: json_example_2.json
+2024-10-10 19:26:13,356 - INFO - Processing file: json_example_3.json
+2024-10-10 19:26:13,365 - INFO - Successfully processed file: json_example_3.json
+2024-10-10 19:26:13,365 - INFO - Processing file: json_example_4.json
+2024-10-10 19:26:13,365 - INFO - Successfully processed file: json_example_4.json
+2024-10-10 19:26:13,365 - INFO - Processing file: json_example_5.json
+2024-10-10 19:26:13,365 - INFO - Successfully processed file: json_example_5.json
+2024-10-10 19:26:13,365 - INFO - Processing file: json_example_6.json
+2024-10-10 19:26:13,365 - INFO - Successfully processed file: json_example_6.json
+2024-10-10 19:26:13,365 - INFO - Processing file: json_example_7.json
+2024-10-10 19:26:13,384 - INFO - Successfully processed file: json_example_7.json
+2024-10-10 19:26:13,384 - INFO - Processing file: json_example_8.json
+2024-10-10 19:26:13,388 - INFO - Successfully processed file: json_example_8.json
+2024-10-10 19:26:13,388 - INFO - Processing file: json_example_9.json
+2024-10-10 19:26:13,392 - INFO - Successfully processed file: json_example_9.json
+2024-10-10 19:26:13,395 - INFO - Saved dfMain.csv
+2024-10-10 19:26:13,395 - INFO - Saved array.csv
+2024-10-10 19:26:13,398 - INFO - Saved nested_object.csv
+2024-10-10 19:26:13,399 - INFO - Saved array_of_objects.csv
+2024-10-10 19:26:13,400 - INFO - Saved object_with_array.csv
+2024-10-10 19:26:13,402 - INFO - Saved empty_object.csv
+2024-10-10 19:26:13,402 - INFO - Saved empty_array.csv
+2024-10-10 19:26:13,403 - INFO - Saved nested_arrays.csv
+2024-10-10 19:26:13,404 - INFO - Saved mixed_array.csv
+2024-10-10 19:26:13,404 - INFO - JSON processing completed successfully

@@ -1,0 +1,73 @@
+{
+  "string": "2JzvfJ8MEp",
+  "number": -99.92314418864851,
+  "integer": -59,
+  "float": 9.531430472001741,
+  "boolean_true": true,
+  "boolean_false": false,
+  "null_value": null,
+  "array": [
+    61,
+    83,
+    90,
+    39,
+    74
+  ],
+  "nested_object": {
+    "name": "kZIIw0WUUi",
+    "value": 7
+  },
+  "array_of_objects": [
+    {
+      "id": 1,
+      "name": "hzG00volJF"
+    },
+    {
+      "id": 2,
+      "name": "htQnbBRK1P"
+    },
+    {
+      "id": 3,
+      "name": "ViBBNMIMN9"
+    }
+  ],
+  "object_with_array": {
+    "name": "tagsxJzWPh",
+    "values": [
+      82,
+      99,
+      25
+    ]
+  },
+  "string_with_escapes": "Line 1\nLine 2\tTabbed\rCarriage Return dM2CRiKhAi",
+  "string_with_unicode": "Unicode: © ♥ ‼ QK8oM9ckiy",
+  "empty_object": {},
+  "empty_array": [],
+  "nested_arrays": [
+    [
+      6,
+      9,
+      8
+    ],
+    [
+      7,
+      2,
+      3
+    ],
+    [
+      6,
+      7,
+      1
+    ]
+  ],
+  "mixed_array": [
+    12,
+    "nGH1SUnn8M",
+    3.800939880666734,
+    false,
+    null,
+    {
+      "key": "fj8CODgILI"
+    }
+  ]
+}
